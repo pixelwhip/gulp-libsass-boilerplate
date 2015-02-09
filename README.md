@@ -12,3 +12,5 @@ bower install
 ```
 
 Update the config.theme variable in ```/resources/gulp.config.js```
+
+Update theme_path in ```/Gruntfile.js```

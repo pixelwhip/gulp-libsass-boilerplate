@@ -1,5 +1,5 @@
 module.exports = function(grunt) {
-  var theme_path = 'sites/all/themes/hrw';
+  var theme_path = 'sites/all/themes/projec_name';
 
   // Project configuration.
   grunt.initConfig({
